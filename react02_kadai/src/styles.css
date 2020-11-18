@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+
+h1{
+  text-align: center;
+  font-size: 16px;
+}
+
+.hidden{
+display: none;
+}
+
+.submit{
+  margin-bottom: 50px;
+}
+
+.list{
+  cursor: pointer;
+  width: 600px;
+}
+
+.list:hover{
+  background-color: aliceblue;
+}
+
